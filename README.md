@@ -73,7 +73,7 @@ The useful and helpful dependencies of modes (xml, jetpack compose)
     implementation "com.squareup.retrofit2:retrofit:2.9.0"
     implementation "com.squareup.retrofit2:converter-gson:2.9.0"
 
-*[RxJava / Android](https://github.com/ReactiveX/RxAndroid):*
+*[RxJava / RxAndroid](https://github.com/ReactiveX/RxAndroid):*
 
   *Java:*
 
