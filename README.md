@@ -1,5 +1,5 @@
 ## ready-project
-sample normal codes of a sample projects are here/
+Useful dependencies are here. This is special for Android-XML (+Kotlin) / Jetpack Compose.
 
 ---
 
