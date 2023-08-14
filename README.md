@@ -3,6 +3,12 @@ Useful dependencies are here. This is special for Android-XML (+Kotlin) / Jetpac
 
 ---
 
+# Unit Test
+### *build.gradle (: app)*
+ Choose by your needed:
+ 
+    testImplementation "com.google.truth:truth:1.0.1"
+
 # XML project
 ### *build.gradle (: app)*
 
